@@ -48,13 +48,13 @@
 	- 18\. 正则表达式(@bootingman)
 	- 19\. Here Documents(@mingmings)
 	- 20\. I/O Redirection(@mingmings)
-	- 21\. Subshells
+	- 21\. Subshells(@mingmings)
 	- 22\. Restricted Shells
 	- 23\. Process Substitution
-	- 24\. Functions(@mingmings)
+	- 24\. Functions(@zy416548283)
 	- 25\. Aliases(@mingmings)
 	- 26\. List Constructs
-	- 27\. Arrays
+	- 27\. Arrays(@zy416548283)
 	- 28\. Indirect References
 	- 29\. /dev and /proc
 	- 30\. Network Programming
